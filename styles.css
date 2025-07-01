@@ -3,11 +3,13 @@ body {
 }
 h1 {
     color: deeppink; 
+    font-family: times new roman;
     font-size: 30px;
     text-align: center;
 }
 p {
-    color: mediumspringgreen; 
+    color: mediumspringgreen;
+    font-family: times new roman;
     font-size: 18px;
     text-align: center;
 }
