@@ -2,9 +2,9 @@ body {
     background-color: deepskyblue;
 }
 h1 {
-    color: blue; 
+    color: darkblue; 
     font-family: times new roman;
-    font-size: 60px;
+    font-size: 50px;
     text-align: center;
 }
 h2 {
@@ -14,7 +14,13 @@ h2 {
     text-align: center;
 }
 p {
-    color: pink;
+    color: black;
+    font-family: times new roman;
+    font-size: 18px;
+    text-align: center;
+}
+a {
+    color: black;
     font-family: times new roman;
     font-size: 18px;
     text-align: center;
