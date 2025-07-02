@@ -1,20 +1,20 @@
 body {
-    background-color: white;
+    background-color: deepskyblue;
 }
 h1 {
-    color: deeppink; 
+    color: blue; 
     font-family: times new roman;
     font-size: 60px;
     text-align: center;
 }
 h2 {
-    color: yellow;
+    color: white;
     font-family: times new roman;
-    font-size: 30px;
+    font-size: 20px;
     text-align: center;
 }
 p {
-    color: deepskyblue;
+    color: pink;
     font-family: times new roman;
     font-size: 18px;
     text-align: center;
