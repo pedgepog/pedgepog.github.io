@@ -3,25 +3,19 @@ body {
 }
 h1 {
     color: darkblue; 
-    font-family: eb garamond;
+    font-family: "eb garamond", Times;
     font-size: 50px;
     text-align: center;
 }
 h2 {
-    color: khaki;
-    font-family: eb garamond;
+    color: pink;
+    font-family: "eb garamond", Times;
     font-size: 20px;
     text-align: center;
 }
 p {
     color: black;
-    font-family: times new roman;
-    font-size: 18px;
-    text-align: center;
-}
-a {
-    color: black;
-    font-family: times new roman;
+    font-family: "times new roman", Times;
     font-size: 18px;
     text-align: center;
 }
