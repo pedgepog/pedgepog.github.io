@@ -3,13 +3,13 @@ body {
 }
 h1 {
     color: darkblue; 
-    font-family: Garamond, Times;
+    font-family: "Trebuchet MS", Times;
     font-size: 50px;
     text-align: center;
 }
 h2 {
     color: pink;
-    font-family: Garamond, Times;
+    font-family: "Trebuchet MS", Times;
     font-size: 20px;
     text-align: center;
 }
