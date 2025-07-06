@@ -27,6 +27,9 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: limegreen;
+    width: 600px;
+    left: 200px;
+    right: 200px;
     position: sticky;
     top: 0;
 }
