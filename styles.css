@@ -2,7 +2,7 @@ body {
     background-color: white;
 }
 h1 {
-    color: blue; 
+    color: darkblue; 
     font-family: Arial, "Times New Roman", Times;
     font-weight: normal;
     font-size: 40px;
@@ -16,7 +16,7 @@ h2 {
     text-align: center;
 }
 p {
-    color: blue;
+    color: darkblue;
     font-family: Arial, "Times New Roman", Times;
     font-weight: normal;
     font-size: 18px;
