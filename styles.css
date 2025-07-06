@@ -5,20 +5,23 @@ h1 {
     color: darkblue; 
     font-family: Arial, "Times New Roman", Times;
     font-weight: normal;
-    font-size: 40px;
+    font-size: 30px;
     text-align: center;
 }
 h2 {
     color: deepskyblue;
     font-family: Arial, "Times New Roman", Times;
     font-weight: normal;
-    font-size: 20px;
+    font-size: 18px;
     text-align: center;
 }
 p {
     color: darkblue;
     font-family: Arial, "Times New Roman", Times;
     font-weight: normal;
-    font-size: 18px;
+    font-size: 16px;
     text-align: center;
+}
+::highlight(yellow) {
+    color: yellow;
 }
