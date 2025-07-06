@@ -9,7 +9,7 @@ h1 {
     text-align: center;
 }
 h2 {
-    color: deepskyblue;
+    color: limegreen;
     font-family: Arial, "Times New Roman", Times;
     font-weight: normal;
     font-size: 18px;
@@ -32,13 +32,17 @@ ul {
 }
 li {
     float: left;
+    font-family: Arial;
 }
 li a {
     display: block;
-    color: pink;
+    color: darkblue;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+}
+li a:hover {
+    background-color: pink;
 }
 .active {
     background-color: #fdea87;
