@@ -30,6 +30,9 @@ ul {
     position: sticky;
     top: 0;
 }
+
+/*Styling for navigation bar*/
+
 #rcorner1 {
   border-radius: 20px;
 }
