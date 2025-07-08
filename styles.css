@@ -44,16 +44,16 @@ li {
     float: left;
     font-family: "Times New Roman";
     font-size: 18px;
+    width: 25%;
 }
 li a {
     display: block;
     color: darkblue;
     text-align: center;
-    padding: 10px 250px;
-    width: 25%;
+    padding: 10px;
 }
 li a:hover {
-    background-color: pink;
+    background-color: #fde985;
 }
 .active {
     background-color: lightgreen;
