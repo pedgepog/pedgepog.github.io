@@ -28,6 +28,7 @@ ul {
     margin: 0;
     padding: 30;
     overflow: hidden;
+    max-width: 1600px;
     background-color: white;
     position: sticky;
     top: 0;
