@@ -32,8 +32,10 @@ ul {
     position: sticky;
     top: 0;
 }
-ul.dotted {border-style: dotted;}
-
+ul.dotted {
+    border-style: dotted;
+    border-color: darkblue;
+}
 #rcorner1 {
   border-radius: 20px;
 }
