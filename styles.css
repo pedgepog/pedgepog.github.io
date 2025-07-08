@@ -39,7 +39,7 @@ ul.dotted {border-style: dotted;}
 }
 li {
     float: left;
-    font-family: Arial;
+    font-family: "Times New Roman";
 }
 li a {
     display: block;
