@@ -44,7 +44,7 @@ li a {
     display: block;
     color: darkblue;
     text-align: center;
-    padding: 14px 30px;
+    padding: 14px 640px;
 }
 li a:hover {
     background-color: pink;
