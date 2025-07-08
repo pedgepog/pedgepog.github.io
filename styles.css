@@ -47,11 +47,11 @@ li a {
     display: block;
     color: darkblue;
     text-align: center;
-    padding: 10px 40px;
+    padding: 10px 80px;
 }
 li a:hover {
     background-color: pink;
 }
 .active {
-    background-color: #fdea87;
+    background-color: limegreen;
 }
