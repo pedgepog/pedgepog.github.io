@@ -22,7 +22,7 @@ p {
     text-align: center;
 }
 
-/*Styling for navigation bar*/
+/*Navigation bar*/
 ul {
     list-style-type: none;
     margin: auto;
@@ -57,4 +57,40 @@ li a:hover {
 }
 .active {
     background-color: lavender;
+}
+
+/*Main page gallery*/
+div.gallery {
+    border: 1px transparent;
+}
+div.gallery:hover {
+    border: dashed darkblue;
+}
+div.gallery img {
+    width: 100%
+    height: auto;
+}
+* {
+    box-sizing: border-box;
+}
+.responsive {
+    padding: 0 10px;
+    float: left;
+    width: 24.99999%;
+}
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
 }
