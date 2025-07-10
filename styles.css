@@ -59,7 +59,29 @@ li a:hover {
     background-color: lavender;
 }
 
-/*Main page gallery*/
+/*Column setup*/
+.column {
+    float: left;
+    padding: 10px;
+}
+.column.side {
+    width: 25%
+}
+.column.middle {
+    width: 50%;
+}
+.row::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+@media screen and (max-width: 600px) {
+  .column.side, .column.middle { 
+    width: 100%;
+  }
+}
+    
+/*Game page gallery*/
 .card {
     padding: 20px;
     margin-top: 20px;
