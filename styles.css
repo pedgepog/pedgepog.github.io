@@ -69,6 +69,7 @@ li a:hover {
 }
 .column.middle {
     width: 50%;
+    border: darkblue dotted;
 }
 .row::after {
     content: "";
