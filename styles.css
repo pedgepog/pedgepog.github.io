@@ -83,11 +83,6 @@ li a:hover {
 }
     
 /*Game page gallery*/
-.card {
-    padding: 20px;
-    margin-top: 20px;
-    border: dotted darkblue;
-}
 div.gallery {
     border: 1px transparent;
 }
