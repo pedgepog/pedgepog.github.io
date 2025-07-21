@@ -67,7 +67,6 @@ li a:hover {
 
 /*Column setup*/
 .column {
-    background-color: white;
     float: left;
     padding: 10px;
 }
@@ -75,6 +74,7 @@ li a:hover {
     width: 25%
 }
 .column.middle {
+    background-color: white;
     width: 50%;
     border: darkblue dotted;
 }
