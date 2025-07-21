@@ -1,10 +1,19 @@
 body {
     background-color: white;
-    background-image: url('docs/assets/images/fishkeychain.png');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: 90% 20%;
-    background-size: 900px;
+    background-image: url('docs/assets/images/buttonscolor.png'),
+    url('docs/assets/images/fishkeychain.png'), 
+    url('docs/assets/images/buttonsnocolor.png'),
+    url('docs/assets/images/buttonsnocolor.png'),
+    url('docs/assets/images/buttonsnocolor.png'),
+    url('docs/assets/images/buttonsnocolor.png'),
+    url('docs/assets/images/frog.png'),
+    url('docs/assets/images/frog.png'),
+    url('docs/assets/images/frog.png'),
+    url('docs/assets/images/frog.png');
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat;
+    background-attachment: fixed, fixed, fixed, fixed, fixed, fixed, fixed, fixed;
+    background-position: 0% 100%, 110% 100%, 120% 4%, 140% 16%, 160% 28%, 180% 40%, 10% 35%, 10% 60%, 10% 85%, 10% 110%;
+    background-size: 800px, 650px, 800px, 800px, 800px, 800px, 160px, 160px, 160px, 160px;
     
 }
 h1 {
@@ -97,7 +106,7 @@ div.gallery:hover {
     border: dashed darkblue;
 }
 div.gallery img {
-    width: 100%
+    width: 100%;
     height: auto;
 }
 * {
