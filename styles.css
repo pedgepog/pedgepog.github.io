@@ -61,6 +61,7 @@ li a:hover {
 
 /*Column setup*/
 .column {
+    background-color: white;
     float: left;
     padding: 10px;
 }
