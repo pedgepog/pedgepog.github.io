@@ -98,7 +98,7 @@ li a:hover {
   }
 }
     
-/*Game page gallery*/
+/*Game page grid gallery - 2 per row*/
 div.gallery {
     border: 1px transparent;
 }
@@ -133,4 +133,28 @@ div.gallery img {
     content: "";
     display: table;
     clear: both;
+}
+
+/*Art page grid gallery - 3 per row*/
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 10px;
+    padding: 10px;
+}
+.grid-container > div {
+    text-align: center;
+    font-size: 30px;
+}
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+.item.img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.item.img:hover {
+    border: dashed darkblue;
 }
