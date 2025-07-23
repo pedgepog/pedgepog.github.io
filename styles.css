@@ -106,8 +106,9 @@ div.gallery:hover {
     border: dashed darkblue;
 }
 div.gallery img {
-    width: 100%;
-    height: auto;
+    width: 458px;
+    height: 458px;
+    object-fit: cover;
 }
 * {
     box-sizing: border-box;
