@@ -36,12 +36,6 @@ p {
     font-size: 18px;
     text-align: center;
 }
-a {
-    color: darkblue;
-    font-family: "Times New Roman", Times;
-    font-size: 18px;
-    text-align: center;
-}
 
 /*Navigation bar*/
 ul {
@@ -151,10 +145,13 @@ div.gallery img {
 .grid-container > div {
     text-align: center;
     font-size: 30px;
-    background-color: blue;
 }
 div.desc {
     padding: 15px;
+    text-align: center;
+    color: darkblue;
+    font-family: "Times New Roman", Times;
+    font-size: 18px;
     text-align: center;
 }
 .item img {
