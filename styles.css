@@ -139,7 +139,7 @@ div.gallery img {
 .grid-container{
     display: grid;
     grid-template-columns: auto auto;
-    gap: 10px;
+    gap: 20px;
     padding: 10px;
 }
 .grid-container > div {
