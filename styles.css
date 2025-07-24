@@ -135,22 +135,23 @@ div.gallery img {
     clear: both;
 }
 
-/*Art page grid gallery - 3 per row*/
+/*Grid gallery - 3 per row*/
 .grid-container{
     display: grid;
     grid-template-columns: auto auto auto;
     gap: 20px;
     padding: 10px;
 }
-.grid-container2{
-    display: grid;
-    grid-template-columns: auto auto auto auto;
-    gap: 20px;
-    padding: 10px;
-}
 .grid-container > div {
     text-align: center;
     font-size: 30px;
+}
+/*Grid gallery - 2 per row*/
+.grid-container2{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 20px;
+    padding: 10px;
 }
 div.desc {
     padding: 15px;
