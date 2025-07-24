@@ -138,7 +138,7 @@ div.gallery img {
 /*Art page grid gallery - 3 per row*/
 .grid-container{
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: auto auto auto;
     gap: 20px;
     padding: 10px;
 }
