@@ -96,13 +96,11 @@ li a:hover {
     clear: both;
 }
 .column.side2 {
-    background-color: white;
-    width: 10%;
-    border: darkblue dotted;
+    width: 15%;
 }
 .column.middle2 {
     background-color: white;
-    width: 80%;
+    width: 75%;
     border: darkblue dotted;
 }
 @media screen and (max-width: 600px) {
