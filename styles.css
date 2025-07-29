@@ -36,6 +36,9 @@ p {
     font-size: 18px;
     text-align: center;
 }
+.leftalign {
+    text-align: left;
+}
 
 /*Navigation bar*/
 ul {
@@ -91,6 +94,16 @@ li a:hover {
     content: "";
     display: table;
     clear: both;
+}
+.column.side2 {
+    background-color: white;
+    width: 10%;
+    border: darkblue dotted;
+}
+.column.middle2 {
+    background-color: white;
+    width: 80%;
+    border: darkblue dotted;
 }
 @media screen and (max-width: 600px) {
   .column.side, .column.middle { 
