@@ -39,6 +39,11 @@ p {
 .leftalign {
     text-align: left;
 }
+img {
+    display: block;
+    margin: auto;
+    width: 100%;
+}
 
 /*Navigation bar*/
 ul {
