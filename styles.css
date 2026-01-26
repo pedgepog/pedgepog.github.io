@@ -184,3 +184,8 @@ div.desc {
 .item img:hover {
     border: dashed darkblue;
 }
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
