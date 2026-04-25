@@ -178,8 +178,8 @@ div.desc {
 }
 .item img {
     width: 100%;
-    height: auto;
-    object-fit: cover;
+    height: 100%;
+    object-fit: contain;
 }
 .item img:hover {
     border: dashed darkblue;
